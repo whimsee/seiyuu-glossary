@@ -1,0 +1,3 @@
+# SNS
+
+**SNS** – **Social Networking Services.** Refers to **networking and blogging services** such as Twitter (lesser known as X), Instagram, Facebook, Ameba blog, LINE blog, Weibo, etc.  Posts and updates are usually screened and handled by the *seiyuu*’s manager especially for blogs, where they might even provide a separate form for them to submit. However, it is really more up to the agency as some are lenient and let accounts become pretty much public-facing personal accounts that only do promotions when needed, with management stepping in only in times of abuse, misuse, or sudden emergencies. Often, staff or the *seiyuu* themselves will indicate which of them sent the post by signing off in the end.
