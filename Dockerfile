@@ -1,4 +1,4 @@
-FROM otterwiki:2
+FROM redimp/otterwiki:2
 
 COPY repository /app-data/repository
 
