@@ -1,0 +1,13 @@
+services:
+  seiyuu-glossary:
+    image: seiyuu-glossary
+    container_name: seiyuu-glossary
+    restart: unless-stopped
+    environment:
+      DISABLE_REGISTRATION: True
+      SITE_NAME: "Seiyuu Subculture Glossary"
+      SITE_DESCRIPTION: "Glossary of terms related to Japanese voice acting"
+      WRITE_ACCESS: "Admin"
+      ATTACHMENT_ACCESS: "Admin"
+    ports:
+      - 8111:80
